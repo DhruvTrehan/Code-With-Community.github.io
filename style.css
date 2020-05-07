@@ -60,6 +60,6 @@ body{
   @media screen and (max-width: 600px){
     .landing-page{
       height: 600px;
-      width: 260px;
+      width: 400px;
     }
 }
