@@ -1,0 +1,175 @@
+@import 'https://fonts.googleapis.com/css?family=Lato|Montserrat';
+
+h1, h2, h3, h4, h5{
+  font-family: Montserrat;
+}
+
+.button-center{
+  text-align: center;
+}
+
+.section-top{
+  padding: 20px;
+}
+
+.register-button{
+  padding: 15px 40px 15px 40px;
+  border: none;
+  color: #fff;
+  background-color: rgb(232, 102, 21);
+  font-family: Montserrat;
+  font-size: 32px;
+  border-radius: 10px;
+}
+
+p{
+  font-family: lato;
+
+}
+
+.montserrat{
+  font-family: Montserrat;
+}
+
+.lato {
+  font-family: Lato; 
+}
+
+.section-one{
+  background-color: rgb(236,236,236);
+  color: rgb(75, 79, 86);
+  padding: 20px;
+}
+
+.section-two{
+  background-color: rgb(236,236,236);
+  padding: 20px;
+}
+
+.section-two p{
+  font-style: italic;
+}
+
+.section-one h1,
+.section-one h3,
+.section-one p{
+  text-align: center;
+}
+
+.section-three{
+  background-color: rgb(75,79,86);
+  color: #fff;
+  padding: 20px;
+}
+
+.section-three li{
+  font-style: italic;
+  font-family: lato;
+}
+
+.section-three li a, .section-footer a{
+   color: #fff;
+}
+
+.section-three li a:link, .section-footer a:link{
+  text-decoration: none;
+}
+
+.section-three li a:hover, .section-footer a:hover{
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+  
+}
+
+
+
+.section-paragraph{
+  padding: 20px;
+  margin-left: 25px;
+  margin-right: 25px;
+  text-align: center;
+  text-size-adjust: 30px;
+}
+
+
+
+.circle{
+  border-radius: 50%;
+  width: 25%;
+  padding-bottom: 25%;
+  border: 1px solid grey;
+}
+
+.circle-prize{
+   border-radius: 50%;
+  width: 25%;
+  padding-bottom: 25%;
+  border: 1px solid grey;
+  background-color: #fff;
+  background-image: url('https://uc.uxpin.com/files/593985/589786/Prize.png');
+  background-size: 45%;
+  background-repeat: no-repeat;
+  background-position: 50%;  
+}
+
+.circle-participation{
+    border-radius: 50%;
+  width: 25%;
+  padding-bottom: 25%;
+  border: 1px solid grey;
+  background-color: #fff;
+  background-image: url('https://uc.uxpin.com/files/593985/589786/Collaboration-96-1.png');
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: 50%; 
+}
+
+.circle-challenge{
+    border-radius: 50%;
+  width: 25%;
+  padding-bottom: 25%;
+  border: 1px solid grey;
+  background-color: #fff;
+  background-image: url('https://uc.uxpin.com/files/593985/589786/Lightbulb.png');
+  background-size: 35%;
+  background-repeat: no-repeat;
+  background-position: 50%; 
+}
+
+.photo-container{
+  padding: 20px
+}
+
+.round-photo{
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .fa-whatsapp{
+    background: green;
+    color: white;
+  }
+  footer{
+  }
