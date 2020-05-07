@@ -193,4 +193,19 @@ a{
     background: #bb0000;
     color: white;
   }
+  li{
+    text-decoration: solid;
+    line-height:150%;
+    Letter-spacing:0.7px;
+    display: flex;
+    justify-content: center;
+  }
+  .col22{
+    display: flex;
+    justify-content: center;
+  }
   
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
