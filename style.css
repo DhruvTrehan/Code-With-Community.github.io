@@ -57,9 +57,3 @@ body{
     background:#ccc;
     color:#000;
   }
-  @media screen and (max-width: 600px){
-    .landing-page{
-      height: 600px;
-      width: 400px;
-    }
-}
